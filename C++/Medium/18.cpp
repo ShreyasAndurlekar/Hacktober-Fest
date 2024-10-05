@@ -6,7 +6,7 @@ int add(int a, int b)
 }
 float add(float a, float b)
 {
-    return a - b;
+    return a + b;   // wrong symbol should be + since we addding stuff
 }
 int main()
 {
