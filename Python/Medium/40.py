@@ -1,2 +1,2 @@
 my_dict = {'a': 1, 'b': 2}
-print(my_dict['c'])  
+print(my_dict['a'])  # incorrect index c doesn't even exist
