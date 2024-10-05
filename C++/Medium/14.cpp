@@ -2,7 +2,7 @@
 using namespace std;
 void area(int radius)
 {
-    const float PI = 3.14;
+    const double PI = 3.14;         // should not be string should be double
     return PI * radius * radius;
 }
 void main()
