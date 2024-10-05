@@ -8,4 +8,6 @@ int main()
     a = a - b;
     cout << "a: " << a << ", b: " << b << endl;
     return 0;
+
+    // Already solved nothing to fi
 }
