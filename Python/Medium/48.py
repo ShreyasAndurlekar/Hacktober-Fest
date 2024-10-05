@@ -1,7 +1,6 @@
 class A:
-    def method(): 
+    def method(self):  # Add 'self' as the first parameter
         print("Hello")
 
 a = A()
-a.method() 
-
+a.method()  # This will now work correctly
