@@ -1,8 +1,8 @@
-n=12
-If n%2=0:
-	print(‘even number’)
+n = 12
+if n % 2 == 0:  # Use '==' for equality check
+    print('even number')
 
 num = 15
 
-if num = 10: 
-    print("Number is 10")
+if num == 10:  # Use '==' for equality check
+    print("Number is 10") 
